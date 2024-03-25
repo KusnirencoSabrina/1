@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab215-St10\\Desktop\\Laborator11\\Laborator11\\Laborator11.csproj": {}
+    "C:\\Users\\Lab215-St10\\Desktop\\1\\Laborator11\\Laborator11\\Laborator11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab215-St10\\Desktop\\Laborator11\\Laborator11\\Laborator11.csproj": {
+    "C:\\Users\\Lab215-St10\\Desktop\\1\\Laborator11\\Laborator11\\Laborator11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab215-St10\\Desktop\\Laborator11\\Laborator11\\Laborator11.csproj",
+        "projectUniqueName": "C:\\Users\\Lab215-St10\\Desktop\\1\\Laborator11\\Laborator11\\Laborator11.csproj",
         "projectName": "Laborator11",
-        "projectPath": "C:\\Users\\Lab215-St10\\Desktop\\Laborator11\\Laborator11\\Laborator11.csproj",
+        "projectPath": "C:\\Users\\Lab215-St10\\Desktop\\1\\Laborator11\\Laborator11\\Laborator11.csproj",
         "packagesPath": "C:\\Users\\Lab215-St10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab215-St10\\Desktop\\Laborator11\\Laborator11\\obj\\",
+        "outputPath": "C:\\Users\\Lab215-St10\\Desktop\\1\\Laborator11\\Laborator11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
